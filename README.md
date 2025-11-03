@@ -4,4 +4,6 @@ Erewhon
 <br>
 <br>
 
-![](erewhon-1.png)
+![](EW-1.png)
+![](EW-2.png)
+![](EW-3.png)
